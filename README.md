@@ -1,7 +1,14 @@
-
-# HelloWorld!
-Hi there, I am Summer Ann 
-I am a passsionate and hard-working data analyst and software engineer 
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+  
+<h1># HelloWorld! <h1>
+<p> Hi there, I am Summer Ann <p>
+<p> I am a passsionate and hard-working data analyst and software engineer <p>
 
 About me:
 
