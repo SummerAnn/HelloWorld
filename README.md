@@ -10,10 +10,10 @@ div {text-align: center;}
 <p> Hi there, I am Summer Ann <p>
 <p> I am a passsionate and hard-working data analyst and software engineer <p>
 
-About me:
+<div> About me:
 
 
-My Programming Langunages:
+<div> My Programming Langunages:<div>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -80,4 +80,7 @@ DataBase:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/SummerAnn) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/summereunann)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/SummerAnn) [<img alt="Github" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/summereunann)
+  
+  </body>
+</html>
