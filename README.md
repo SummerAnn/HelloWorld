@@ -1,6 +1,12 @@
+
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+<h1 style="font-family:Sofia;">Charge Details</h1>
 # HelloWorld!
-I am Summer Ann
-This is to get to know me better
+Hi there, I am Summer Ann 
+I am a passsionate and hard-working data analyst and software engineer 
+
+About me:
+
 
 My Programming Langunages:
 
