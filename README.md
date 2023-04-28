@@ -1,6 +1,13 @@
 
 <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
 <h1 style="font-family:Sofia;">Charge Details</h1>
+
+    .u_content_custom_generic_table_2.table-grid tr th{
+font-family:Sofia;font-size:14px;text-align:center;color:#464C51;background-color:#F6F7F8;padding-left:12px;padding-right:12px;padding-top:12px;padding-bottom:12px; text-decoration: auto; font-weight: normal; font-style: normal; border-top: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0;
+      }
+      .u_content_custom_generic_table_2.table-grid tr td{      font-family:Sofia;font-size:14px;text-align:left;color:#000000;background-color:#FFFFFF;padding-left:12px;padding-right:12px;padding-top:12px;padding-bottom:12px; text-decoration: auto; font-weight: normal; font-style: normal; border-top: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0;
+      }
+      
 # HelloWorld!
 Hi there, I am Summer Ann 
 I am a passsionate and hard-working data analyst and software engineer 
