@@ -1,19 +1,13 @@
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
-  
-<h1># HelloWorld! <h1>
-<p> Hi there, I am Summer Ann <p>
+<div style="text-align:center">
+  # HelloWorld!
+ <p> Hi there, I am Summer Ann <p>
 <p> I am a passsionate and hard-working data analyst and software engineer <p>
 
-<div> About me:
 
-
-<div> My Programming Langunages:<div>
+<p> About me:
+<p> My Programming Langunages:<div>
+ </div>
+  
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -82,5 +76,5 @@ DataBase:
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/SummerAnn) [<img alt="Github" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/summereunann)
   
-  </body>
+ </body>
 </html>
